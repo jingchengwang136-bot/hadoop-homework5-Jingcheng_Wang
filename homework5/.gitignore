@@ -1,0 +1,7 @@
+.build/
+target/*
+!target/*.jar
+runs/
+__pycache__/
+*.crc
+.DS_Store
